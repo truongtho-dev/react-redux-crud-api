@@ -1,0 +1,3 @@
+export const GET_AUTHORS = "GET_AUTHORS";
+export const GET_POSTS_OF_AUTHOR = "GET_POSTS_OF_AUTHOR";
+export const EDIT_POST_OF_AUTHOR = "EDIT_POST_OF_AUTHOR";
